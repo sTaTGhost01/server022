@@ -1684,6 +1684,7 @@
       "cantaloupe_seed": "2025-04-03 03:18:28 +0000",
       "blackbean_seed": "2025-04-03 04:58:02 +0000",
       "cauliflower_seed": "2025-04-03 03:18:27 +0000",
+      "tea_seed": "2025-04-03 23:10:51 +0000",
       "elderberry_seed": "2025-04-03 04:58:03 +0000",
       "tomato_seed": "2025-04-03 03:18:26 +0000",
       "chile_pepper_seed": "2025-04-03 04:59:37 +0000",
@@ -1749,6 +1750,8 @@
       "spinach_seed": "2025-04-03 05:15:30 +0000",
       "blackbean_seed": "2025-04-03 04:58:02 +0000",
       "cauliflower_seed": "2025-04-03 03:18:27 +0000",
+      "radish_seed": "2025-04-03 23:00:17 +0000",
+      "tea_seed": "2025-04-03 23:10:51 +0000",
       "elderberry_seed": "2025-04-03 04:58:03 +0000",
       "blueberry_seed": "2025-04-03 03:18:25 +0000",
       "strawberry_seed": "2025-04-03 04:57:40 +0000",
@@ -1757,7 +1760,7 @@
       "celery_seed": "2025-04-03 04:57:52 +0000",
       "raspberry_seed": "2025-04-03 03:18:33 +0000"
     },
-    "done": false
+    "done": true
   },
   "croptopia:recipes/wine": {
     "criteria": {
@@ -2781,6 +2784,7 @@
       "cooked_beef": "2025-04-03 05:22:10 +0000",
       "apple": "2025-04-03 03:43:13 +0000",
       "golden_apple": "2025-04-03 21:41:05 +0000",
+      "salmon": "2025-04-03 22:26:26 +0000",
       "cooked_salmon": "2025-04-03 20:49:00 +0000"
     },
     "done": false
@@ -5772,7 +5776,9 @@
   "croptopia:gather_food": {
     "criteria": {
       "toast": "2025-04-03 05:22:32 +0000",
-      "calamari": "2025-04-03 05:13:07 +0000"
+      "calamari": "2025-04-03 05:13:07 +0000",
+      "toast_with_jam": "2025-04-03 22:13:59 +0000",
+      "strawberry_jam": "2025-04-03 22:12:24 +0000"
     },
     "done": false
   },
@@ -5796,6 +5802,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-04-03 22:30:34 +0000",
       "wheat": "2025-04-03 05:14:31 +0000"
     },
     "done": false
@@ -6053,9 +6060,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-03 22:32:44 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/quick_charge_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/seared/table": {
+    "criteria": {
+      "has_item": "2025-04-03 22:37:32 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-04-03 21:55:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/leafy_salad": {
+    "criteria": {
+      "has_spinach": "2025-04-03 22:26:07 +0000"
     },
     "done": true
   },
@@ -6071,15 +6102,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-03 22:32:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-04-03 21:13:27 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/guide_book": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_reed_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-04-03 22:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-03 22:32:44 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/channeling_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-04-03 22:32:44 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/dragon_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
     },
     "done": true
   },
@@ -6095,9 +6174,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/radish_seed": {
+    "criteria": {
+      "has_radish": "2025-04-03 23:00:17 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/skeleton": {
     "criteria": {
       "has_arrow": "2025-04-03 20:45:02 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/turtle_armor_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-03 22:32:44 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/end_lotus_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
     },
     "done": true
   },
@@ -6107,9 +6204,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-04-03 22:35:47 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/puny_smelting": {
+    "criteria": {
+      "crafted_book": "2025-04-03 22:33:07 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/decorations/altar_block": {
     "criteria": {
       "has_item": "2025-04-03 21:38:34 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/frost_walker_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
     },
     "done": true
   },
@@ -6125,6 +6240,12 @@
     },
     "done": true
   },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-04-03 22:26:54 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/tools/moonstone_axe_left": {
     "criteria": {
       "has_item": "2025-04-03 21:38:34 +0000"
@@ -6137,9 +6258,69 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/elderberry_jam": {
+    "criteria": {
+      "has_elderberry": "2025-04-03 22:52:14 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/mushroom_fir_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/mossy_glowshroom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/lacugrove_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-03 22:32:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-04-03 22:03:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/peanut_butter_and_jam": {
+    "criteria": {
+      "has_jam": "2025-04-03 22:12:24 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/crimson_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/seared/drain": {
+    "criteria": {
+      "has_item": "2025-04-03 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/umbrella_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/punch_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
     },
     "done": true
   },
@@ -6149,15 +6330,93 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_hunters_promise": {
+    "criteria": {
+      "has_leather": "2025-04-03 22:32:44 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infinity_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/blackbean_seed": {
+    "criteria": {
+      "has_blackbean": "2025-04-03 22:24:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/tenanea_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_tea": {
+    "criteria": {
+      "has_tea_seed": "2025-04-03 23:10:51 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2025-04-03 22:32:44 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/decorations/blackstone_pedestal": {
     "criteria": {
       "has_item": "2025-04-03 21:38:34 +0000"
     },
     "done": true
   },
+  "tconstruct:recipes/misc/smeltery/seared/seared_ladder": {
+    "criteria": {
+      "has_item": "2025-04-03 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/efficiency_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/helix_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/fire_protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/campfire_molasses": {
     "criteria": {
       "has_sugar_cane": "2025-04-03 21:55:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/spinach_seed": {
+    "criteria": {
+      "has_spinach": "2025-04-03 22:26:07 +0000"
     },
     "done": true
   },
@@ -6185,9 +6444,27 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blast_protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot": {
     "criteria": {
       "has_copper_block": "2025-04-03 21:13:27 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/flame_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
     },
     "done": true
   },
@@ -6203,15 +6480,99 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/smeltery/seared/ingot_gauge": {
+    "criteria": {
+      "has_item": "2025-04-03 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/seared/seared_glass": {
+    "criteria": {
+      "has_item": "2025-04-03 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/lure_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_monster_room": "2025-04-03 20:58:18 +0000"
     },
     "done": false
   },
+  "tconstruct:recipes/misc/smeltery/seared/fuel_tank": {
+    "criteria": {
+      "has_item": "2025-04-03 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/warped_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_shear_dagger": {
+    "criteria": {
+      "has_shears": "2025-04-03 22:32:43 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tools/building/flint_and_brick": {
+    "criteria": {
+      "has_seared": "2025-04-03 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/seared/ingot_tank": {
+    "criteria": {
+      "has_item": "2025-04-03 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_baked_beans": {
+    "criteria": {
+      "has_beans": "2025-04-03 22:24:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-04-03 21:13:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/refried_beans": {
+    "criteria": {
+      "has_beans": "2025-04-03 22:24:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/silk_touch_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/luck_of_sea_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/gauntlets/gauntlet_gauntlets": {
+    "criteria": {
+      "has_leather": "2025-04-03 22:32:44 +0000"
     },
     "done": true
   },
@@ -6221,15 +6582,51 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/piercing_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/impaling_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "cabbage_seeds": "2025-04-03 20:59:30 +0000"
     },
     "done": true
   },
+  "betterend:recipes/misc/swift_sneak_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "campfire": "2025-04-03 22:03:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/seared/heater": {
+    "criteria": {
+      "has_item": "2025-04-03 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
+    "criteria": {
+      "has_glow_goop": "2025-04-03 23:02:54 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/seared/lantern": {
+    "criteria": {
+      "has_item": "2025-04-03 22:37:32 +0000"
     },
     "done": true
   },
@@ -6245,15 +6642,57 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/baked_beans_from_blackbean": {
+    "criteria": {
+      "has_blackbean": "2025-04-03 22:24:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/seared/fuel_gauge": {
+    "criteria": {
+      "has_item": "2025-04-03 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_gravity": {
     "criteria": {
       "has_anvil": "2025-04-03 21:08:52 +0000"
     },
     "done": true
   },
+  "tconstruct:recipes/misc/smeltery/seared/chute": {
+    "criteria": {
+      "has_item": "2025-04-03 22:37:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-04-03 21:13:27 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/riptide_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/seared/basin": {
+    "criteria": {
+      "has_item": "2025-04-03 22:37:32 +0000"
     },
     "done": true
   },
@@ -6269,15 +6708,123 @@
     },
     "done": true
   },
+  "betterend:recipes/building_blocks/pythadendron_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-03 22:32:44 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/tools/moonstone_hoe_right": {
     "criteria": {
       "has_item": "2025-04-03 21:38:34 +0000"
     },
     "done": true
   },
+  "betterend:recipes/misc/knockback_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/stalagnate_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sharpness_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/fortune_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/seared/faucet": {
+    "criteria": {
+      "has_item": "2025-04-03 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/mending_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/tools/boss_compass": {
     "criteria": {
       "has_item": "2025-04-03 21:38:34 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/seared/melter": {
+    "criteria": {
+      "has_item": "2025-04-03 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/lucernia_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/seared/grout_multiple": {
+    "criteria": {
+      "has_item": "2025-04-03 22:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-03 22:32:44 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_beans": "2025-04-03 22:24:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/feather_falling_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/seared/seared_bricks_from_brick": {
+    "criteria": {
+      "has_item": "2025-04-03 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/aqua_affinity_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_roasted_radishes": {
+    "criteria": {
+      "has_radish": "2025-04-03 23:00:17 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/fire_aspect_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
     },
     "done": true
   },
@@ -6293,9 +6840,27 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/wart_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/vanguard_armor_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-03 22:32:44 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/tools/moonstone_shovel": {
     "criteria": {
       "has_item": "2025-04-03 21:38:34 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/projectile_protection_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
     },
     "done": true
   },
@@ -6305,9 +6870,63 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_mushroom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweeping_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/respiration_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/soul_speed_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_dancers_sword": {
+    "criteria": {
+      "has_leather": "2025-04-03 22:32:44 +0000"
+    },
+    "done": true
+  },
   "mythicmetals:carmot": {
     "criteria": {
       "gygrid": "2025-04-03 21:38:48 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/looting_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/depth_strider_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/seared/channel": {
+    "criteria": {
+      "has_item": "2025-04-03 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/bane_of_arthropods_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
     },
     "done": true
   },
@@ -6317,9 +6936,33 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/unbreaking_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/loyalty_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/willow_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/molasses_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-04-03 21:55:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/tostada": {
+    "criteria": {
+      "has_beans": "2025-04-03 22:24:54 +0000"
     },
     "done": true
   },
@@ -6335,15 +6978,93 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/baked_beans_from_smoking_blackbean": {
+    "criteria": {
+      "has_blackbean": "2025-04-03 22:24:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/thorns_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-04-03 22:32:44 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/rubeus_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-04-03 22:32:44 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/jellyshroom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/elderberry_seed": {
+    "criteria": {
+      "has_elderberry": "2025-04-03 22:52:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/power_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/smite_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-04-03 22:02:28 +0000"
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_sakura_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-03 22:33:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2025-04-03 20:54:25 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_leather_handle_attachment": {
+    "criteria": {
+      "has_leather": "2025-04-03 22:32:44 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/tea_seed": {
+    "criteria": {
+      "has_tea_leaves": "2025-04-03 23:10:51 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/multishot_book": {
+    "criteria": {
+      "has_item.minecraft.book": "2025-04-03 22:33:00 +0000"
     },
     "done": true
   },
