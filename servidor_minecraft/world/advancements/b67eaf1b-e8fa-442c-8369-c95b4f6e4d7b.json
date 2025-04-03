@@ -6084,6 +6084,16 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/melter": {
+    "criteria": {
+      "seared_heater": "2025-04-03 23:35:19 +0000",
+      "seared_table": "2025-04-03 23:35:27 +0000",
+      "seared_basin": "2025-04-03 23:36:08 +0000",
+      "seared_faucet": "2025-04-03 23:35:30 +0000",
+      "seared_melter": "2025-04-03 23:35:22 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/leafy_salad": {
     "criteria": {
       "has_spinach": "2025-04-03 22:26:07 +0000"
@@ -6375,6 +6385,12 @@
   "soulsweapons:recipes/decorations/blackstone_pedestal": {
     "criteria": {
       "has_item": "2025-04-03 21:38:34 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/sand_cast": {
+    "criteria": {
+      "has_casting": "2025-04-03 23:35:04 +0000"
     },
     "done": true
   },
@@ -6807,6 +6823,12 @@
   "tconstruct:recipes/misc/smeltery/seared/seared_bricks_from_brick": {
     "criteria": {
       "has_item": "2025-04-03 22:37:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/red_sand_cast": {
+    "criteria": {
+      "has_casting": "2025-04-03 23:35:04 +0000"
     },
     "done": true
   },

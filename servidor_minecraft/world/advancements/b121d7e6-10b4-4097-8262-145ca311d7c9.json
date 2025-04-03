@@ -3455,7 +3455,9 @@
       "minecraft:skeleton": "2025-04-03 04:55:24 +0000",
       "minecraft:spider": "2025-04-03 04:49:05 +0000",
       "minecraft:creeper": "2025-04-03 04:54:28 +0000",
+      "minecraft:cave_spider": "2025-04-03 23:36:07 +0000",
       "minecraft:stray": "2025-04-03 05:06:40 +0000",
+      "minecraft:enderman": "2025-04-03 23:35:39 +0000",
       "minecraft:zombie": "2025-04-03 04:56:16 +0000",
       "minecraft:drowned": "2025-04-03 05:44:54 +0000"
     },
@@ -4629,15 +4631,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-03 23:30:57 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/smeltery/seared/table": {
     "criteria": {
       "has_item": "2025-04-03 23:10:51 +0000"
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_great_hammer": {
+    "criteria": {
+      "has_leather": "2025-04-03 23:30:57 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/common/materials/copper_nugget_from_ingot": {
     "criteria": {
       "has_item": "2025-04-03 23:10:49 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/daggers/dagger_the_beginning": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-03 23:35:41 +0000"
     },
     "done": true
   },
@@ -4653,9 +4673,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-03 23:30:57 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/highland_armor_chestplate": {
     "criteria": {
       "has_scale_mail_chestplate": "2025-04-03 22:43:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-03 23:30:57 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-03 23:35:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-04-03 23:30:57 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/building_blocks/verglas_block": {
+    "criteria": {
+      "has_item": "2025-04-03 23:31:26 +0000"
     },
     "done": true
   },
@@ -4671,9 +4721,39 @@
     },
     "done": true
   },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "item": "2025-04-03 23:31:26 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/turtle_armor_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-03 23:30:57 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/smeltery/copper_can": {
     "criteria": {
       "has_item": "2025-04-03 23:10:49 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-03 23:35:41 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/sting": {
+    "criteria": {
+      "has_item": "2025-04-03 23:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-03 23:30:57 +0000"
     },
     "done": true
   },
@@ -4701,6 +4781,18 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-03 23:35:41 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/bows/bow_hunters_promise": {
+    "criteria": {
+      "has_leather": "2025-04-03 23:30:57 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/armor/building/travelers_goggles": {
     "criteria": {
       "has_item": "2025-04-03 23:10:49 +0000"
@@ -4710,6 +4802,12 @@
   "galosphere:recipes/tools/glow_flare": {
     "criteria": {
       "has_copper_ingot": "2025-04-03 23:10:49 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2025-04-03 23:30:57 +0000"
     },
     "done": true
   },
@@ -4731,6 +4829,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/evocation_robe_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-03 23:30:57 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/smeltery/seared/ingot_gauge": {
     "criteria": {
       "has_item": "2025-04-03 23:10:51 +0000"
@@ -4742,6 +4846,12 @@
       "has_item": "2025-04-03 23:10:51 +0000"
     },
     "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-03 23:35:55 +0000"
+    },
+    "done": false
   },
   "tconstruct:recipes/misc/smeltery/seared/fuel_tank": {
     "criteria": {
@@ -4782,6 +4892,12 @@
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-04-03 23:01:51 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/gauntlets/gauntlet_gauntlets": {
+    "criteria": {
+      "has_leather": "2025-04-03 23:30:57 +0000"
     },
     "done": true
   },
@@ -4899,6 +5015,18 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/combat/skofnung_stone": {
+    "criteria": {
+      "has_item": "2025-04-03 23:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-03 23:30:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-04-03 22:43:19 +0000"
@@ -4908,6 +5036,12 @@
   "mcda:recipes/base_armors/teleportation_robe_chestplate": {
     "criteria": {
       "has_copper_ingot": "2025-04-03 23:10:49 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-04-03 23:35:41 +0000"
     },
     "done": true
   },
@@ -4935,6 +5069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-03 23:30:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-03 22:54:58 +0000"
@@ -4947,15 +5087,39 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/vanguard_armor_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-03 23:30:57 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/misc/verglas": {
+    "criteria": {
+      "has_item": "2025-04-03 23:31:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-04-03 23:01:51 +0000"
     },
     "done": true
   },
+  "mcda:recipes/base_armors/shulker_armor_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-03 23:30:57 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-04-03 23:01:51 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_dancers_sword": {
+    "criteria": {
+      "has_leather": "2025-04-03 23:30:57 +0000"
     },
     "done": true
   },
@@ -4968,6 +5132,18 @@
   "tconstruct:recipes/misc/smeltery/seared/channel": {
     "criteria": {
       "has_item": "2025-04-03 23:10:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-04-03 23:30:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-03 23:35:41 +0000"
     },
     "done": true
   },
@@ -4986,6 +5162,18 @@
   "immersive_armors:recipes/misc/warrior": {
     "criteria": {
       "has_item": "2025-04-03 22:43:35 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-03 23:35:55 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_leather_handle_attachment": {
+    "criteria": {
+      "has_leather": "2025-04-03 23:30:57 +0000"
     },
     "done": true
   },
