@@ -4468,7 +4468,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2025-04-03 05:29:07 +0000"
+      "sugar_cane": "2025-04-03 05:29:07 +0000",
+      "wheat": "2025-04-03 23:20:14 +0000"
     },
     "done": false
   },
@@ -4973,6 +4974,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-04-03 23:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-03 23:20:14 +0000"
     },
     "done": true
   },
