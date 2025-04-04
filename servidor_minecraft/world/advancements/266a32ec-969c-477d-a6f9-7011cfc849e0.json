@@ -2713,9 +2713,11 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-03 23:58:05 +0000",
       "minecraft:spider": "2025-04-04 00:00:31 +0000",
+      "minecraft:piglin_brute": "2025-04-04 04:50:43 +0000",
       "minecraft:creeper": "2025-04-04 01:14:00 +0000",
       "minecraft:witch": "2025-04-04 01:24:38 +0000",
       "minecraft:cave_spider": "2025-04-04 00:40:37 +0000",
+      "minecraft:piglin": "2025-04-04 04:50:40 +0000",
       "minecraft:enderman": "2025-04-04 01:44:05 +0000",
       "minecraft:silverfish": "2025-04-04 02:02:57 +0000",
       "minecraft:zombie": "2025-04-03 23:58:10 +0000"
@@ -2982,6 +2984,7 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
+      "magma_cream": "2025-04-04 04:53:49 +0000",
       "earth": "2025-04-03 23:58:20 +0000"
     },
     "done": false
@@ -5638,6 +5641,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 04:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-04 04:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-04 04:29:47 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/combat/spawner_chestplate": {
     "criteria": {
       "has_spawner_frame": "2025-04-04 02:43:01 +0000"
@@ -5647,6 +5668,18 @@
   "galosphere:recipes/misc/silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-04-04 03:04:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:flooded_deltas": "2025-04-04 04:52:57 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:recipes/building_blocks/common/materials/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-04-04 04:25:40 +0000"
     },
     "done": true
   },
@@ -5665,6 +5698,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-04-04 02:00:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 04:29:48 +0000"
     },
     "done": true
   },
@@ -5704,6 +5743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-04-04 04:53:49 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_reed_bookshelf": {
     "criteria": {
       "has_book": "2025-04-04 02:33:36 +0000"
@@ -5713,6 +5758,12 @@
   "betternether:recipes/decorations/nether_reed_hanging_sign": {
     "criteria": {
       "has_chain": "2025-04-04 02:43:32 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_mace": {
+    "criteria": {
+      "has_iron_block": "2025-04-04 04:47:16 +0000"
     },
     "done": true
   },
@@ -5764,6 +5815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-04 04:25:40 +0000"
+    },
+    "done": true
+  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-04-04 03:28:55 +0000"
@@ -5776,6 +5833,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-04 04:29:47 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/copper_can": {
+    "criteria": {
+      "has_item": "2025-04-04 04:25:40 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/frost_walker_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-04 02:33:36 +0000"
@@ -5785,6 +5854,12 @@
   "betterend:recipes/misc/ender_eye_amber": {
     "criteria": {
       "has_ender_pearl": "2025-04-04 01:44:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-04 04:47:16 +0000"
     },
     "done": true
   },
@@ -5824,6 +5899,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-04-04 04:26:49 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/crimson_bookshelf": {
     "criteria": {
       "has_book": "2025-04-04 02:33:36 +0000"
@@ -5841,6 +5922,12 @@
       "incendium:inverted_forest": "2025-04-04 04:16:35 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-04 04:29:47 +0000"
+    },
+    "done": true
   },
   "betterend:recipes/building_blocks/umbrella_tree_bookshelf": {
     "criteria": {
@@ -5866,15 +5953,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-04 04:29:47 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/punch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-04 02:33:36 +0000"
     },
     "done": true
   },
+  "tconstruct:recipes/combat/armor/building/travelers_shield": {
+    "criteria": {
+      "has_item": "2025-04-04 04:25:40 +0000"
+    },
+    "done": true
+  },
   "galosphere:adventure/silver_ingot": {
     "criteria": {
       "silver_ingot": "2025-04-04 03:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 04:29:48 +0000"
     },
     "done": true
   },
@@ -5905,6 +6010,18 @@
   "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
     "criteria": {
       "has_chain": "2025-04-04 02:43:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/armor/building/travelers_goggles": {
+    "criteria": {
+      "has_item": "2025-04-04 04:25:40 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/glow_flare": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-04 04:25:40 +0000"
     },
     "done": true
   },
@@ -5962,6 +6079,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-04 04:47:16 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/buttered_toast": {
     "criteria": {
       "has_toast": "2025-04-04 02:49:30 +0000"
@@ -5989,6 +6112,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-04-04 02:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-04 04:29:47 +0000"
     },
     "done": true
   },
@@ -6022,9 +6151,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2025-04-04 04:53:53 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/dragon_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2025-04-04 02:43:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-04 04:29:47 +0000"
     },
     "done": true
   },
@@ -6049,6 +6190,12 @@
   "betterend:recipes/decorations/mossy_glowshroom_hanging_sign": {
     "criteria": {
       "has_chain": "2025-04-04 02:43:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-04 04:29:47 +0000"
     },
     "done": true
   },
@@ -6106,6 +6253,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-04-04 04:47:16 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/hammers/hammer_flail": {
     "criteria": {
       "has_chain": "2025-04-04 02:43:32 +0000"
@@ -6124,9 +6277,33 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/armor/building/travelers_pants": {
+    "criteria": {
+      "has_item": "2025-04-04 04:25:40 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-04-04 04:47:16 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/french_fries": {
     "criteria": {
       "has_potato": "2025-04-04 02:41:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-04 04:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-04 04:29:47 +0000"
     },
     "done": true
   },
@@ -6154,9 +6331,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 04:29:48 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
     "criteria": {
       "has_glowing_calamari": "2025-04-04 01:52:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-04 04:29:47 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2025-04-04 04:47:16 +0000"
     },
     "done": true
   },
@@ -6202,9 +6397,51 @@
     },
     "done": true
   },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2025-04-04 04:47:16 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/combat/guts_sword": {
+    "criteria": {
+      "has_item": "2025-04-04 04:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-04 04:53:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-04 04:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 04:29:48 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/copper_platform": {
+    "criteria": {
+      "has_bars": "2025-04-04 04:25:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-04-04 02:33:36 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-04-04 04:47:16 +0000"
     },
     "done": true
   },
@@ -6232,9 +6469,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/armor/building/travelers_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-04 04:25:40 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/riptide_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-04 02:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-04 04:25:40 +0000"
     },
     "done": true
   },
@@ -6251,6 +6500,12 @@
     },
     "done": false
   },
+  "tconstruct:recipes/misc/armor/building/travelers_boots": {
+    "criteria": {
+      "has_item": "2025-04-04 04:25:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-04 02:46:28 +0000"
@@ -6260,6 +6515,12 @@
   "mcda:recipes/base_armors/reinforced_mail_helmet": {
     "criteria": {
       "has_iron_helmet": "2025-04-04 04:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 04:29:48 +0000"
     },
     "done": true
   },
@@ -6293,6 +6554,24 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-04-04 04:53:46 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/teleportation_robe_chestplate": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-04 04:25:40 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-04-04 04:53:49 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_hanging_sign": {
     "criteria": {
       "has_chain": "2025-04-04 02:43:32 +0000"
@@ -6323,6 +6602,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 04:29:48 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/tools/spectre_flare": {
     "criteria": {
       "has_silver_ingot": "2025-04-04 03:04:59 +0000"
@@ -6338,6 +6623,18 @@
   "betterend:recipes/misc/fortune_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-04 02:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-04 04:29:47 +0000"
+    },
+    "done": true
+  },
+  "alloy_forgery:recipes/alloy_forgery/copper_block": {
+    "criteria": {
+      "has_the_recipe": "2025-04-04 04:25:40 +0000"
     },
     "done": true
   },
@@ -6368,6 +6665,12 @@
   "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
       "has_bowl": "2025-04-04 02:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-04-04 04:53:49 +0000"
     },
     "done": true
   },
@@ -6407,15 +6710,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-04 04:29:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-04-04 02:41:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-04-04 04:53:53 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_hanging_sign": {
     "criteria": {
       "has_chain": "2025-04-04 02:43:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-04 04:29:47 +0000"
     },
     "done": true
   },
@@ -6428,6 +6749,12 @@
   "betterend:recipes/decorations/jellyshroom_hanging_sign": {
     "criteria": {
       "has_chain": "2025-04-04 02:43:32 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/soul_magma_block": {
+    "criteria": {
+      "has_item": "2025-04-04 04:53:49 +0000"
     },
     "done": true
   },
@@ -6449,6 +6776,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/smeltery/scorched/nether_grout": {
+    "criteria": {
+      "has_item": "2025-04-04 04:53:49 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/toast_with_jam": {
     "criteria": {
       "has_toast": "2025-04-04 02:49:30 +0000"
@@ -6461,6 +6794,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 04:29:48 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sweeping_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-04 02:33:36 +0000"
@@ -6470,6 +6809,18 @@
   "betterend:recipes/misc/respiration_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-04 02:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-04 04:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 04:29:48 +0000"
     },
     "done": true
   },
@@ -6599,9 +6950,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-04 04:29:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 04:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 04:29:48 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/power_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-04 02:33:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-04-04 04:53:49 +0000"
     },
     "done": true
   },
@@ -6620,6 +6995,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-04-04 04:16:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-04 04:29:48 +0000"
     },
     "done": true
   },

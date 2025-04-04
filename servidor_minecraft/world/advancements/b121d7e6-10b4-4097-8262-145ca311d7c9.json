@@ -4252,6 +4252,7 @@
       "sweet_berries": "2025-04-04 00:53:05 +0000",
       "apple": "2025-04-03 05:04:57 +0000",
       "cooked_cod": "2025-04-04 00:28:29 +0000",
+      "bread": "2025-04-04 04:44:36 +0000",
       "rotten_flesh": "2025-04-04 01:00:52 +0000",
       "suspicious_stew": "2025-04-04 00:40:31 +0000",
       "cooked_salmon": "2025-04-03 05:25:56 +0000",
@@ -6903,6 +6904,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-04 04:31:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-04 03:51:42 +0000"
@@ -7059,6 +7066,12 @@
     },
     "done": true
   },
+  "simplymore:vipers_call": {
+    "criteria": {
+      "requirement": "2025-04-04 04:41:09 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/naturalist/glow_goop": {
     "criteria": {
       "has_glow_berries": "2025-04-04 04:14:12 +0000"
@@ -7113,6 +7126,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/reinforced_mail_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-04-04 04:47:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-04-04 03:58:03 +0000"
@@ -7152,6 +7171,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-04 03:51:42 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2025-04-04 04:37:06 +0000"
     },
     "done": true
   },
@@ -7218,6 +7243,12 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-04-04 04:15:04 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-04-04 04:39:59 +0000"
     },
     "done": true
   },
@@ -7425,6 +7456,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/mercenary_armor_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-04-04 04:47:52 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/tools/boss_compass": {
     "criteria": {
       "has_item": "2025-04-04 04:12:37 +0000"
@@ -7527,6 +7564,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/misc/soul_silk": {
+    "criteria": {
+      "has_soul_cloth": "2025-04-04 04:35:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-04 04:21:23 +0000"
@@ -7584,6 +7627,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-04 03:51:42 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_leggings": {
+    "criteria": {
+      "has_iron_leggings": "2025-04-04 04:47:52 +0000"
     },
     "done": true
   },

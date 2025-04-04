@@ -13725,3 +13725,57 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [04:24:19] [Server thread/INFO]: PIPEN20 lost connection: Disconnected
 [04:24:19] [Server thread/INFO]: PIPEN20 left the game
 [04:24:19] [Server thread/INFO]: [STDOUT]: []
+[04:24:59] [Server thread/INFO]: [STDOUT]: []
+[04:25:35] [Server thread/INFO]: Bastolan lost connection: Disconnected
+[04:25:35] [Server thread/INFO]: Bastolan left the game
+[04:25:45] [Server thread/INFO]: [STDOUT]: []
+[04:25:59] [Server thread/INFO]: [STDOUT]: []
+[04:26:25] [Server thread/INFO]: Juvia__ has completed the challenge [Centennial]
+[04:26:48] [Server thread/INFO]: [STDOUT]: []
+[04:28:54] [Server thread/INFO]: Juvia__ has made the advancement [Diamonds!]
+[04:30:05] [Server thread/WARN]: Boat with Chest (vehicle of sTaT_Ghost022) moved too quickly! -2.026643181678196,0.0,-10.199880705725263
+[04:30:05] [Server thread/WARN]: Boat with Chest (vehicle of sTaT_Ghost022) moved too quickly! -2.1051176528909537,0.0,-10.59210206781836
+[04:30:05] [Server thread/WARN]: Boat with Chest (vehicle of sTaT_Ghost022) moved too quickly! -2.1836046986397832,0.0,-10.984321431185663
+[04:30:05] [Server thread/WARN]: Boat with Chest (vehicle of sTaT_Ghost022) moved too quickly! -2.262103061470725,0.0,-11.376538995700002
+[04:30:05] [Server thread/WARN]: Boat with Chest (vehicle of sTaT_Ghost022) moved too quickly! -2.3406116096754204,0.0,-11.76875494124647
+[04:30:18] [Worker-Main-1/INFO]: [STDOUT]: []
+[04:30:35] [Server thread/INFO]: [STDOUT]: []
+[04:31:59] [Server thread/INFO]: LrD_Ainz has made the advancement [Not Today, Thank You]
+[04:33:31] [Server thread/INFO]: [STDOUT]: []
+[04:34:51] [Server thread/INFO]: Juvia__ has made the advancement [False Water]
+[04:35:37] [Worker-Main-1/INFO]: [STDOUT]: []
+[04:37:07] [Server thread/INFO]: [STDOUT]: []
+[04:37:45] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-1, y=-46, z=79}
+[04:37:45] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-4, y=-56, z=80}
+[04:37:45] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=1, y=-57, z=78}
+[04:37:45] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=1, y=-57, z=79}
+[04:37:49] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-500, y=-58, z=-614}
+[04:37:49] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-501, y=-58, z=-615}
+[04:37:49] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-501, y=-58, z=-616}
+[04:37:49] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-498, y=-58, z=-614}
+[04:37:49] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-499, y=-58, z=-614}
+[04:38:14] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=-501, y=-58, z=-617}
+[04:38:26] [Server thread/INFO]: Juvia__ has made the advancement [Dungeon Now Loading]
+[04:39:59] [Server thread/INFO]: LrD_Ainz has completed the challenge [Centennial]
+[04:41:09] [Server thread/INFO]: LrD_Ainz has made the advancement [Ouroboros]
+[04:43:57] [Server thread/INFO]: [STDOUT]: []
+[04:46:17] [Server thread/INFO]: <LrD_Ainz> [name:"Spawn", x:50, y:64, z:40, dim:minecraft:overworld]
+[04:47:23] [Server thread/INFO]: Juvia__ has made the advancement [Sweet Dreams]
+[04:47:34] [Server thread/INFO]: [STDOUT]: []
+[04:47:41] [Server thread/INFO]: [STDOUT]: []
+[04:48:25] [Server thread/INFO]: [STDOUT]: []
+[04:48:57] [Server thread/INFO]: [STDOUT]: []
+[04:48:57] [Server thread/INFO]: [STDOUT]: []
+[04:48:57] [Server thread/INFO]: [STDOUT]: []
+[04:49:39] [Server thread/INFO]: [STDOUT]: []
+[04:51:02] [Server thread/INFO]: Vo1DDeD was shot by Piglin
+[04:51:02] [Server thread/INFO]: Created new backpack backup file for Vo1DDeD with unique ID travelersbackpack.hay_04.04.2025-04.51.02.dat
+[04:51:02] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: -6, 37, 28
+[04:53:18] [Server thread/INFO]: [STDOUT]: []
+[04:53:37] [Server thread/INFO]: [STDOUT]: []
+[04:53:44] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/109367, l='ServerLevel[world]', x=52.22, y=-20.00, z=-23.73] died: Restless Spirit was killed
+[04:53:46] [Server thread/INFO]: Vo1DDeD has made the advancement [War Pigs]
+[04:53:57] [Server thread/INFO]: [STDOUT]: []
+[04:53:57] [Server thread/INFO]: [STDOUT]: []
+[04:54:15] [Server thread/INFO]: Vo1DDeD has made the advancement [Hidden in the Depths]
+[04:55:07] [Server thread/INFO]: Vo1DDeD has completed the challenge [Centennial]
