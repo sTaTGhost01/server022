@@ -3466,6 +3466,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-04 00:54:40 +0000",
       "minecraft:skeleton": "2025-04-03 04:55:24 +0000",
+      "minecraft:hoglin": "2025-04-04 05:10:42 +0000",
       "minecraft:spider": "2025-04-03 04:49:05 +0000",
       "minecraft:creeper": "2025-04-03 04:54:28 +0000",
       "minecraft:witch": "2025-04-04 00:22:55 +0000",
@@ -4253,6 +4254,7 @@
       "apple": "2025-04-03 05:04:57 +0000",
       "cooked_cod": "2025-04-04 00:28:29 +0000",
       "bread": "2025-04-04 04:44:36 +0000",
+      "golden_apple": "2025-04-04 04:54:45 +0000",
       "rotten_flesh": "2025-04-04 01:00:52 +0000",
       "suspicious_stew": "2025-04-04 00:40:31 +0000",
       "cooked_salmon": "2025-04-03 05:25:56 +0000",
@@ -4372,6 +4374,7 @@
       "grassland": "2025-04-04 00:36:03 +0000",
       "prairie": "2025-04-04 01:07:38 +0000",
       "gravel_beach": "2025-04-03 05:24:08 +0000",
+      "undergrowth": "2025-04-04 05:09:14 +0000",
       "crag": "2025-04-04 02:05:00 +0000"
     },
     "done": false
@@ -6425,7 +6428,8 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
-      "sky": "2025-04-04 01:50:24 +0000"
+      "sky": "2025-04-04 01:50:24 +0000",
+      "magma_cream": "2025-04-04 05:06:43 +0000"
     },
     "done": false
   },
@@ -6898,6 +6902,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/spawner_chestplate": {
+    "criteria": {
+      "has_spawner_frame": "2025-04-04 04:57:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-04 03:51:42 +0000"
@@ -6909,6 +6919,12 @@
       "deflected_projectile": "2025-04-04 04:31:59 +0000"
     },
     "done": true
+  },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:flooded_deltas": "2025-04-04 05:07:59 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
@@ -6952,6 +6968,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/snow_armor_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-04-04 05:01:44 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/campfire_toast": {
     "criteria": {
       "has_bread": "2025-04-04 03:53:41 +0000"
@@ -6961,6 +6983,12 @@
   "soulsweapons:recipes/tools/moonstone_axe_right": {
     "criteria": {
       "has_item": "2025-04-04 04:12:37 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-04-04 05:01:44 +0000"
     },
     "done": true
   },
@@ -7066,6 +7094,12 @@
     },
     "done": true
   },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:inverted_forest": "2025-04-04 05:05:17 +0000"
+    },
+    "done": false
+  },
   "simplymore:vipers_call": {
     "criteria": {
       "requirement": "2025-04-04 04:41:09 +0000"
@@ -7075,6 +7109,12 @@
   "naturalist:recipes/naturalist/glow_goop": {
     "criteria": {
       "has_glow_berries": "2025-04-04 04:14:12 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_boots": {
+    "criteria": {
+      "has_spawner_frame": "2025-04-04 04:57:00 +0000"
     },
     "done": true
   },
@@ -7111,6 +7151,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-04-04 04:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-04 05:05:16 +0000"
     },
     "done": true
   },
@@ -7165,6 +7211,12 @@
   "croptopia:recipes/food/toast_from_smoking_bread": {
     "criteria": {
       "has_bread": "2025-04-04 03:53:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_chestplate": {
+    "criteria": {
+      "has_iron_chestplate": "2025-04-04 05:01:44 +0000"
     },
     "done": true
   },
@@ -7234,6 +7286,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/spawner_leggings": {
+    "criteria": {
+      "has_spawner_frame": "2025-04-04 04:57:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-04 04:21:23 +0000"
@@ -7261,6 +7319,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-04 04:21:23 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-04-04 05:05:16 +0000"
     },
     "done": true
   },
@@ -7402,6 +7466,18 @@
     },
     "done": true
   },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:inverted_forest": "2025-04-04 05:05:17 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-04 05:05:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-04-04 04:07:57 +0000"
@@ -7426,6 +7502,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-04-04 05:05:32 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/tools/moonstone_hoe_right": {
     "criteria": {
       "has_item": "2025-04-04 04:12:37 +0000"
@@ -7435,6 +7517,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-04 04:11:10 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/spawner_helmet": {
+    "criteria": {
+      "has_spawner_frame": "2025-04-04 04:57:00 +0000"
     },
     "done": true
   },
@@ -7486,6 +7574,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-04-04 05:06:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-04-04 04:07:57 +0000"
@@ -7522,6 +7616,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/misc/soul_magma_block": {
+    "criteria": {
+      "has_item": "2025-04-04 05:06:43 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/tools/moonstone_shovel": {
     "criteria": {
       "has_item": "2025-04-04 04:12:37 +0000"
@@ -7549,6 +7649,12 @@
   "soulsweapons:moonstone": {
     "criteria": {
       "item": "2025-04-04 04:12:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/smeltery/scorched/nether_grout": {
+    "criteria": {
+      "has_item": "2025-04-04 05:06:43 +0000"
     },
     "done": true
   },
@@ -7624,6 +7730,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-04 05:05:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-04 03:51:42 +0000"
@@ -7636,6 +7748,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-04-04 05:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-04 05:05:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-04-04 04:04:26 +0000"
@@ -7645,6 +7769,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-04 04:21:23 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_blade": {
+    "criteria": {
+      "has_spawner_frame": "2025-04-04 04:57:00 +0000"
     },
     "done": true
   },

@@ -13779,3 +13779,174 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 [04:53:57] [Server thread/INFO]: [STDOUT]: []
 [04:54:15] [Server thread/INFO]: Vo1DDeD has made the advancement [Hidden in the Depths]
 [04:55:07] [Server thread/INFO]: Vo1DDeD has completed the challenge [Centennial]
+[04:55:49] [Server thread/INFO]: <sTaT_Ghost022> [name:"boss hielo", x:-1631, y:65, z:-975, dim:minecraft:overworld]
+[04:56:49] [Server thread/INFO]: [STDOUT]: []
+[04:57:13] [Server thread/INFO]: [STDOUT]: []
+[04:57:29] [Server thread/INFO]: [STDOUT]: []
+[04:58:34] [Worker-Main-3/WARN]: Ignoring unknown attribute 'obscure_api:magic_damage'
+[04:58:39] [Server thread/INFO]: Juvia__ has made the advancement [Ice Maze]
+[04:58:58] [Worker-Main-2/INFO]: [STDOUT]: []
+[04:58:58] [Server thread/INFO]: [STDOUT]: []
+[04:59:06] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-1329, y=109, z=1363}
+[04:59:10] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=5422, y=81, z=-9004}
+[04:59:10] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=5427, y=81, z=-9009}
+[04:59:10] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=5427, y=81, z=-9007}
+[04:59:10] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=5427, y=81, z=-9008}
+[04:59:10] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=5427, y=81, z=-9001}
+[04:59:10] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=5427, y=81, z=-9000}
+[04:59:10] [Worker-Main-2/ERROR]: Hanging entity at invalid position: class_2338{x=5427, y=81, z=-8999}
+[04:59:17] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=5422, y=81, z=-9004}
+[04:59:17] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=5427, y=81, z=-9009}
+[04:59:17] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=5427, y=81, z=-9007}
+[04:59:17] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=5427, y=81, z=-9008}
+[04:59:17] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=5427, y=81, z=-9001}
+[04:59:17] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=5427, y=81, z=-9000}
+[04:59:17] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=5427, y=81, z=-8999}
+[04:59:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[04:59:24] [Worker-Main-1/ERROR]: Hanging entity at invalid position: class_2338{x=-1329, y=109, z=1363}
+[04:59:25] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-1329, y=109, z=1363}
+[04:59:43] [Server thread/INFO]: [STDOUT]: []
+[05:00:01] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
+[05:01:16] [Server thread/INFO]: Juvia__ has made the advancement [Almost Like a Fan]
+[05:02:06] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
+[05:02:18] [Server thread/INFO]: Juvia__ was slain by Vindicator
+[05:02:18] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: -728, 63, -542
+[05:02:21] [Server thread/INFO]: [STDOUT]: []
+[05:02:33] [Server thread/INFO]: [STDOUT]: []
+[05:02:57] [Server thread/INFO]: [STDOUT]: []
+[05:03:07] [Server thread/INFO]: [STDOUT]: []
+[05:03:59] [Server thread/INFO]: [STDOUT]: []
+[05:04:00] [Server thread/INFO]: [STDOUT]: []
+[05:04:00] [Server thread/INFO]: [STDOUT]: []
+[05:05:11] [Worker-Main-3/ERROR]: Hanging entity at invalid position: class_2338{x=-1329, y=109, z=1363}
+[05:05:13] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
+[05:05:16] [Server thread/INFO]: LrD_Ainz has made the advancement [We Need to Go Deeper]
+[05:05:16] [Server thread/INFO]: LrD_Ainz has made the advancement [Incendium]
+[05:05:16] [Server thread/INFO]: LrD_Ainz has made the advancement [Time for a Sweat]
+[05:05:17] [Server thread/INFO]: LrD_Ainz has made the advancement [Those Were the Days]
+[05:05:17] [Server thread/INFO]: LrD_Ainz has made the advancement [Strange Biomes]
+[05:05:32] [Server thread/INFO]: LrD_Ainz has made the advancement [War Pigs]
+[05:06:15] [Server thread/INFO]: [STDOUT]: []
+[05:06:24] [Server thread/INFO]: [STDOUT]: []
+[05:07:38] [Server thread/INFO]: Juvia__ was slain by Vindicator
+[05:07:38] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: -730, 66, -568
+[05:07:42] [Server thread/INFO]: [STDOUT]: []
+[05:08:20] [Server thread/INFO]: [STDOUT]: []
+[05:09:00] [Server thread/INFO]: [STDOUT]: []
+[05:09:00] [Server thread/INFO]: [STDOUT]: []
+[05:09:36] [Server thread/INFO]: [STDOUT]: []
+[05:09:54] [Server thread/INFO]: [STDOUT]: []
+[05:10:20] [Server thread/INFO]: [STDOUT]: []
+[05:12:00] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
+[05:12:21] [Server thread/INFO]: Juvia__ lost connection: Disconnected
+[05:12:21] [Server thread/INFO]: Juvia__ left the game
+[05:12:21] [Server thread/INFO]: [STDOUT]: []
+[05:12:27] [User Authenticator #27/INFO]: UUID of player Juvia__ is e0fa95ad-aa30-46dd-9120-d466a1aeb94b
+[05:12:27] [Server thread/INFO]: [Handshake] Sending channel query
+[05:12:28] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[05:12:28] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[05:12:28] [Server thread/INFO]: Juvia__[/127.167.238.115:44649] logged in with entity id 130564 at (-603.2049502255979, 64.0, -454.9198969225521)
+[05:12:28] [Server thread/INFO]: Sending server config values to client
+[05:12:28] [Server thread/INFO]: Syncing config to Juvia__ (e0fa95ad-aa30-46dd-9120-d466a1aeb94b)
+[05:12:28] [Server thread/INFO]: Loading config from file...
+[05:12:28] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05:12:28] [Server thread/INFO]: Juvia__ joined the game
+[05:12:28] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[05:12:29] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05:12:29] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05:12:29] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05:12:29] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[05:12:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[05:12:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[05:12:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[05:12:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[05:12:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[05:12:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[05:12:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05:12:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05:12:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05:12:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05:12:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05:12:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05:12:29] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05:12:29] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/server022/servidor_minecraft/bclib-sync (allowDelete=true)
+[05:12:58] [Server thread/INFO]: Juvia__ lost connection: Timed out
+[05:12:58] [Server thread/INFO]: Juvia__ left the game
+[05:12:58] [Server thread/INFO]: [STDOUT]: []
+[05:13:13] [User Authenticator #28/INFO]: UUID of player Juvia__ is e0fa95ad-aa30-46dd-9120-d466a1aeb94b
+[05:13:13] [Server thread/INFO]: [Handshake] Sending channel query
+[05:13:13] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[05:13:13] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[05:13:14] [Server thread/INFO]: Juvia__[/127.167.238.115:35165] logged in with entity id 131295 at (-603.2049502255979, 64.0, -454.9198969225521)
+[05:13:14] [Server thread/INFO]: Sending server config values to client
+[05:13:14] [Server thread/INFO]: Syncing config to Juvia__ (e0fa95ad-aa30-46dd-9120-d466a1aeb94b)
+[05:13:14] [Server thread/INFO]: Loading config from file...
+[05:13:14] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05:13:14] [Server thread/INFO]: Juvia__ joined the game
+[05:13:14] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[05:13:14] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05:13:14] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05:13:14] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05:13:14] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[05:13:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[05:13:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[05:13:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[05:13:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[05:13:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[05:13:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[05:13:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05:13:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05:13:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05:13:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05:13:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05:13:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05:13:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05:13:14] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/server022/servidor_minecraft/bclib-sync (allowDelete=true)
+[05:13:44] [Server thread/INFO]: Juvia__ lost connection: Timed out
+[05:13:44] [Server thread/INFO]: Juvia__ left the game
+[05:13:44] [Server thread/INFO]: [STDOUT]: []
+[05:13:59] [Server thread/INFO]: [STDOUT]: []
+[05:14:10] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
