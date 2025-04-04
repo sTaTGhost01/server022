@@ -7621,6 +7621,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-04 05:56:00 +0000"
+    },
+    "done": false
+  },
   "dungeonnowloading:recipes/combat/spawner_chestplate": {
     "criteria": {
       "has_spawner_frame": "2025-04-04 03:31:14 +0000"
@@ -7735,6 +7741,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-04 05:56:00 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
     "criteria": {
       "has_diamond": "2025-04-04 02:53:40 +0000"
@@ -7778,6 +7790,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-04 05:56:00 +0000"
+    },
+    "done": false
+  },
   "betterend:recipes/misc/ender_eye_amber": {
     "criteria": {
       "has_ender_pearl": "2025-04-04 05:28:08 +0000"
@@ -7802,11 +7820,23 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-04 05:56:00 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-04-04 02:53:40 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-04 05:56:00 +0000"
+    },
+    "done": false
   },
   "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
     "criteria": {
@@ -7862,6 +7892,12 @@
     },
     "done": true
   },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-04 05:56:00 +0000"
+    },
+    "done": false
+  },
   "dungeonnowloading:recipes/combat/life_stealer": {
     "criteria": {
       "has_spawner_blade": "2025-04-04 04:59:19 +0000"
@@ -7916,6 +7952,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-04 05:56:00 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/decorations/fir_sign": {
     "criteria": {
       "has_planks": "2025-04-04 04:43:29 +0000"
@@ -7933,6 +7975,12 @@
       "has_spawner_fragment": "2025-04-04 03:30:45 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-04 05:56:00 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
@@ -7963,6 +8011,12 @@
       "has_item": "2025-04-04 05:49:47 +0000"
     },
     "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-04 05:56:00 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
@@ -8100,6 +8154,13 @@
   "mcda:recipes/unique_armors/highland_armor_helmet": {
     "criteria": {
       "has_iron_helmet": "2025-04-04 04:03:10 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-04-04 05:56:37 +0000",
+      "log_spam_fixer": "2025-04-04 05:56:00 +0000"
     },
     "done": true
   },
@@ -8331,6 +8392,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-04 05:56:00 +0000"
+    },
+    "done": false
+  },
   "mcda:recipes/base_armors/sweet_tooth_boots": {
     "criteria": {
       "has_diamond": "2025-04-04 02:53:40 +0000"
@@ -8384,6 +8451,12 @@
       "enchanted_item": "2025-04-04 03:06:52 +0000"
     },
     "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-04 05:56:00 +0000"
+    },
+    "done": false
   },
   "dungeonnowloading:recipes/misc/soul_silk": {
     "criteria": {
