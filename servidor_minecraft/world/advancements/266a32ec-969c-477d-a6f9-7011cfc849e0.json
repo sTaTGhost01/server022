@@ -5756,6 +5756,12 @@
     },
     "done": true
   },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-04 03:28:55 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/end_lotus_bookshelf": {
     "criteria": {
       "has_book": "2025-04-04 02:33:36 +0000"
@@ -5771,6 +5777,12 @@
   "betterend:recipes/misc/ender_eye_amber": {
     "criteria": {
       "has_ender_pearl": "2025-04-04 01:44:06 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-04-04 03:32:14 +0000"
     },
     "done": true
   },
