@@ -13950,3 +13950,85 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 50 out of bounds for lengt
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
+[05:16:33] [User Authenticator #29/INFO]: UUID of player Juvia__ is e0fa95ad-aa30-46dd-9120-d466a1aeb94b
+[05:16:33] [Server thread/INFO]: [Handshake] Sending channel query
+[05:16:34] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[05:16:34] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[05:16:34] [Server thread/INFO]: Juvia__[/127.167.238.115:58611] logged in with entity id 132850 at (-603.2049502255979, 64.0, -454.9198969225521)
+[05:16:34] [Server thread/INFO]: Sending server config values to client
+[05:16:34] [Server thread/INFO]: Syncing config to Juvia__ (e0fa95ad-aa30-46dd-9120-d466a1aeb94b)
+[05:16:34] [Server thread/INFO]: Loading config from file...
+[05:16:34] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05:16:34] [Server thread/INFO]: Juvia__ joined the game
+[05:16:34] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[05:16:35] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05:16:35] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05:16:35] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05:16:35] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[05:16:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[05:16:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[05:16:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[05:16:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[05:16:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[05:16:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[05:16:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05:16:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05:16:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05:16:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05:16:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05:16:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05:16:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05:16:35] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/server022/servidor_minecraft/bclib-sync (allowDelete=true)
+[05:16:36] [Server thread/INFO]: Juvia__ lost connection: Disconnected
+[05:16:36] [Server thread/INFO]: Juvia__ left the game
+[05:16:36] [Server thread/INFO]: [STDOUT]: []
+[05:16:49] [User Authenticator #30/INFO]: UUID of player Juvia__ is e0fa95ad-aa30-46dd-9120-d466a1aeb94b
+[05:16:49] [Server thread/INFO]: [Handshake] Sending channel query
+[05:16:49] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[05:16:49] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[05:16:50] [Server thread/INFO]: Juvia__[/127.167.238.115:33629] logged in with entity id 133047 at (-603.2049502255979, 64.0, -454.9198969225521)
+[05:16:50] [Server thread/INFO]: Sending server config values to client
+[05:16:50] [Server thread/INFO]: Syncing config to Juvia__ (e0fa95ad-aa30-46dd-9120-d466a1aeb94b)
+[05:16:50] [Server thread/INFO]: Loading config from file...
+[05:16:50] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05:16:50] [Server thread/INFO]: Juvia__ joined the game
+[05:16:50] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[05:16:50] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[05:16:50] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[05:16:50] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[05:16:50] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[05:16:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[05:16:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[05:16:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[05:16:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[05:16:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[05:16:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[05:16:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[05:16:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[05:16:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[05:16:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[05:16:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[05:16:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[05:16:50] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[05:16:50] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/server022/servidor_minecraft/bclib-sync (allowDelete=true)
+[05:17:44] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
+[05:18:02] [Server thread/INFO]: [STDOUT]: []
+[05:18:59] [Server thread/INFO]: [STDOUT]: []
+[05:19:20] [Server thread/INFO]: Juvia__ has made the advancement [Voluntary Exile]
+[05:20:02] [Server thread/INFO]: LrD_Ainz has made the advancement [Enchanter]
+[05:20:32] [Server thread/INFO]: Juvia__ has made the advancement [Exploration]
+[05:20:50] [Server thread/INFO]: Juvia__ was slain by Vindicator
+[05:20:50] [Server thread/INFO]: [STDOUT]: [Gravestones] Gravestone spawned at: -730, 66, -564
+[05:21:11] [Server thread/INFO]: [STDOUT]: []
+[05:22:23] [Server thread/INFO]: [STDOUT]: []
+[05:23:08] [Server thread/INFO]: [STDOUT]: []
+[05:23:09] [Server thread/WARN]: Boat (vehicle of Juvia__) moved wrongly! 0.3171488009393215
+[05:23:09] [Server thread/WARN]: Boat (vehicle of Juvia__) moved wrongly! 0.3466269424764832
+[05:23:09] [Server thread/WARN]: Boat (vehicle of Juvia__) moved wrongly! 0.3765795434113741
+[05:23:09] [Server thread/WARN]: Boat (vehicle of Juvia__) moved wrongly! 0.4067827385217555
+[05:23:09] [Server thread/WARN]: Boat (vehicle of Juvia__) moved wrongly! 0.4369775036223871
+[05:23:38] [Server thread/INFO]: LrD_Ainz has made the advancement [Quite the Renovation]
+[05:23:39] [Server thread/INFO]: LrD_Ainz has made the advancement [Simple Dungeon Room]
+[05:24:00] [Server thread/INFO]: [STDOUT]: []
+[05:24:00] [Server thread/INFO]: [STDOUT]: []
+[05:24:15] [Server thread/INFO]: [STDOUT]: []

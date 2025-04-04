@@ -3469,6 +3469,7 @@
       "minecraft:hoglin": "2025-04-04 05:10:42 +0000",
       "minecraft:spider": "2025-04-03 04:49:05 +0000",
       "minecraft:creeper": "2025-04-03 04:54:28 +0000",
+      "minecraft:zombified_piglin": "2025-04-04 05:21:38 +0000",
       "minecraft:witch": "2025-04-04 00:22:55 +0000",
       "minecraft:cave_spider": "2025-04-03 23:36:07 +0000",
       "minecraft:stray": "2025-04-03 05:06:40 +0000",
@@ -5212,7 +5213,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-04-03 23:35:55 +0000"
+      "in_better_spider_dungeon": "2025-04-03 23:35:55 +0000",
+      "in_better_monster_room": "2025-04-04 05:23:38 +0000"
     },
     "done": false
   },
@@ -7376,6 +7378,12 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-04-04 05:23:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-04-04 04:07:59 +0000"
@@ -7652,6 +7660,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-04 05:20:02 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/smeltery/scorched/nether_grout": {
     "criteria": {
       "has_item": "2025-04-04 05:06:43 +0000"
@@ -7727,6 +7741,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-04 04:21:23 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+    "criteria": {
+      "loot_simple_dungeon": "2025-04-04 05:23:39 +0000"
     },
     "done": true
   },
