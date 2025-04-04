@@ -2787,6 +2787,7 @@
       "sweet_berries": "2025-04-04 00:55:34 +0000",
       "cooked_beef": "2025-04-03 05:22:10 +0000",
       "apple": "2025-04-03 03:43:13 +0000",
+      "cooked_cod": "2025-04-04 01:47:15 +0000",
       "golden_apple": "2025-04-03 21:41:05 +0000",
       "salmon": "2025-04-03 22:26:26 +0000",
       "cooked_salmon": "2025-04-03 20:49:00 +0000",
@@ -2828,16 +2829,21 @@
     "criteria": {
       "shrubland": "2025-04-04 00:22:20 +0000",
       "rocky_shrubland": "2025-04-04 00:22:55 +0000",
+      "maple_woods": "2025-04-04 01:44:36 +0000",
       "field": "2025-04-03 04:06:30 +0000",
+      "orchard": "2025-04-04 02:06:13 +0000",
       "coniferous_forest": "2025-04-03 03:35:10 +0000",
+      "old_growth_dead_forest": "2025-04-04 02:17:56 +0000",
       "redwood_forest": "2025-04-03 03:59:47 +0000",
       "aspen_glade": "2025-04-03 03:38:58 +0000",
       "dune_beach": "2025-04-04 01:07:52 +0000",
       "seasonal_forest": "2025-04-03 03:39:18 +0000",
+      "dead_forest": "2025-04-04 02:18:08 +0000",
       "fir_clearing": "2025-04-03 03:34:57 +0000",
       "grassland": "2025-04-04 00:22:41 +0000",
       "prairie": "2025-04-04 01:33:52 +0000",
-      "gravel_beach": "2025-04-03 04:11:50 +0000"
+      "gravel_beach": "2025-04-03 04:11:50 +0000",
+      "crag": "2025-04-04 02:15:14 +0000"
     },
     "done": false
   },
@@ -4820,9 +4826,11 @@
     "criteria": {
       "minecraft:pillager": "2025-04-04 00:54:33 +0000",
       "minecraft:skeleton": "2025-04-03 04:04:08 +0000",
+      "minecraft:vindicator": "2025-04-04 01:40:04 +0000",
       "minecraft:spider": "2025-04-03 21:00:10 +0000",
       "minecraft:creeper": "2025-04-03 21:00:32 +0000",
       "minecraft:witch": "2025-04-04 00:25:24 +0000",
+      "minecraft:vex": "2025-04-04 02:18:37 +0000",
       "minecraft:zombie": "2025-04-03 04:02:07 +0000",
       "minecraft:drowned": "2025-04-03 04:50:23 +0000"
     },
@@ -7594,6 +7602,115 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-04 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_bowl_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-04 03:28:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2025-04-04 01:45:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_hoe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/spider_armor_chestplate": {
+    "criteria": {
+      "has_thief_armor_chestplate": "2025-04-04 02:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-04-04 02:53:18 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_truthseeker_vanilla_sword": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-04 01:40:41 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/highland_armor_chestplate": {
+    "criteria": {
+      "has_scale_mail_chestplate": "2025-04-04 02:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "sky": "2025-04-04 01:55:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-04 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/soul_daggers/soul_dagger_truthseeker": {
+    "criteria": {
+      "has_the_recipe": "2025-04-04 02:53:40 +0000",
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2025-04-04 01:36:41 +0000"
@@ -7606,15 +7723,435 @@
     },
     "done": true
   },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-04-04 02:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-04-04 02:53:06 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/gadgets/slimesling/sky": {
+    "criteria": {
+      "has_item": "2025-04-04 01:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-04 01:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-04-04 01:46:35 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-04 03:08:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-04 01:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-04 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-04 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_material": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2025-04-04 01:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-04 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-04 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-04 01:45:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/cincinnasite_sword_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-04 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-04-04 03:09:10 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2025-04-04 01:55:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2025-04-04 01:45:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-04 03:08:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-04 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_diamond_sword_var": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-04-04 01:55:35 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-04-04 03:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-04 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-04 02:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-04-04 02:06:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-04 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-04 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-04-04 02:10:53 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/goat_gear_chestplate": {
     "criteria": {
       "has_leather_chestplate": "2025-04-04 01:35:49 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-04 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-04 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/glaives/spear_venom_glaive": {
+    "criteria": {
+      "has_poisonous_potato": "2025-04-04 01:58:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sweet_tooth_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-04 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_aeternium_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:mythril": {
+    "criteria": {
+      "mith": "2025-04-04 03:26:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sweet_tooth_boots": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-04 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_netherite_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-04 01:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-04 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-04 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-04 03:06:52 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sweet_tooth_helmet": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/gadgets/frame/diamond": {
+    "criteria": {
+      "has_item": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-04 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-04 01:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-04 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/sweet_tooth_leggings": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-04-04 02:57:32 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/tools/diamond_machete": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-04 02:56:32 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/scale_mail_chestplate": {
     "criteria": {
       "has_leather_chestplate": "2025-04-04 01:35:49 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel_diamond": {
+    "criteria": {
+      "has_item.minecraft.diamond": "2025-04-04 02:53:40 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-04 01:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-04 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-04-04 02:53:40 +0000"
     },
     "done": true
   },
