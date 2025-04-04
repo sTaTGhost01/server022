@@ -4835,9 +4835,11 @@
       "minecraft:creeper": "2025-04-03 21:00:32 +0000",
       "minecraft:witch": "2025-04-04 00:25:24 +0000",
       "minecraft:cave_spider": "2025-04-04 04:03:51 +0000",
+      "minecraft:enderman": "2025-04-04 05:27:57 +0000",
       "minecraft:vex": "2025-04-04 02:18:37 +0000",
       "minecraft:zombie": "2025-04-03 04:02:07 +0000",
-      "minecraft:drowned": "2025-04-03 04:50:23 +0000"
+      "minecraft:drowned": "2025-04-03 04:50:23 +0000",
+      "minecraft:zombie_villager": "2025-04-04 05:31:59 +0000"
     },
     "done": false
   },
@@ -7715,6 +7717,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-04 05:28:08 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_door": {
     "criteria": {
       "has_planks": "2025-04-04 04:43:29 +0000"
@@ -7770,6 +7778,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-04 05:28:08 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:story/labyrinth/find_labyrinth": {
     "criteria": {
       "find_labyrinth": "2025-04-04 02:56:06 +0000"
@@ -7815,6 +7829,12 @@
   "dungeonnowloading:recipes/combat/spawner_boots": {
     "criteria": {
       "has_spawner_frame": "2025-04-04 03:31:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-04 05:28:08 +0000"
     },
     "done": true
   },
@@ -7938,6 +7958,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/sea_stew": {
+    "criteria": {
+      "has_item": "2025-04-04 05:49:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-04 02:56:32 +0000"
@@ -7978,6 +8004,12 @@
   "biomesoplenty:recipes/redstone/fir_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-04 04:43:29 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_shell_horn": {
+    "criteria": {
+      "shell_horn": "2025-04-04 05:41:06 +0000"
     },
     "done": true
   },
@@ -8209,6 +8241,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-04-04 05:28:08 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/combat/spawner_helmet": {
     "criteria": {
       "has_spawner_frame": "2025-04-04 03:31:14 +0000"
@@ -8422,6 +8460,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-04-04 04:21:11 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-04 05:28:08 +0000"
     },
     "done": true
   },

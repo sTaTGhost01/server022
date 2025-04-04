@@ -4369,6 +4369,7 @@
       "coniferous_forest": "2025-04-03 05:24:52 +0000",
       "old_growth_dead_forest": "2025-04-04 02:17:59 +0000",
       "redwood_forest": "2025-04-04 00:48:00 +0000",
+      "aspen_glade": "2025-04-04 05:36:56 +0000",
       "dune_beach": "2025-04-04 01:07:55 +0000",
       "seasonal_forest": "2025-04-04 02:21:27 +0000",
       "dead_forest": "2025-04-04 02:18:12 +0000",
@@ -6946,6 +6947,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-04 05:44:31 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/combustion_table": {
     "criteria": {
       "has_silver_ingot": "2025-04-04 03:17:53 +0000"
@@ -6961,6 +6968,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-04-04 04:07:59 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-04-04 05:49:01 +0000"
     },
     "done": true
   },
@@ -7246,6 +7259,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-04-04 05:49:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-04-04 03:51:42 +0000"
@@ -7408,6 +7427,12 @@
     },
     "done": true
   },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2025-04-04 05:49:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-04 04:11:10 +0000"
@@ -7435,6 +7460,12 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-04-04 04:14:09 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2025-04-04 05:49:12 +0000"
     },
     "done": true
   },
