@@ -3858,6 +3858,7 @@
     "criteria": {
       "cooked_porkchop": "2025-04-04 00:07:30 +0000",
       "bread": "2025-04-04 00:35:17 +0000",
+      "golden_apple": "2025-04-04 03:52:05 +0000",
       "rotten_flesh": "2025-04-04 00:46:18 +0000",
       "suspicious_stew": "2025-04-04 02:40:32 +0000",
       "cooked_salmon": "2025-04-04 01:24:47 +0000",
@@ -5684,6 +5685,12 @@
     },
     "done": true
   },
+  "simplyswords:hearthflame": {
+    "criteria": {
+      "requirement": "2025-04-04 03:55:13 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/guide_book": {
     "criteria": {
       "has_book": "2025-04-04 02:33:36 +0000"
@@ -5903,6 +5910,18 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-04-04 02:46:28 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
+    "criteria": {
+      "obtain_chaotic_hexahedron": "2025-04-04 03:55:55 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/awaken_chaos_spawner": {
+    "criteria": {
+      "awaken_chaos_spawner": "2025-04-04 03:51:45 +0000"
     },
     "done": true
   },
@@ -6252,6 +6271,12 @@
   "betterend:recipes/misc/mending_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-04 02:33:36 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
+    "criteria": {
+      "has_chaotic_hexahedron": "2025-04-04 03:55:55 +0000"
     },
     "done": true
   },

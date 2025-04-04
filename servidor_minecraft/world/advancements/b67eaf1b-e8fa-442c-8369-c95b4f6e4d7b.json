@@ -2790,6 +2790,7 @@
       "cooked_cod": "2025-04-04 01:47:15 +0000",
       "golden_apple": "2025-04-03 21:41:05 +0000",
       "salmon": "2025-04-03 22:26:26 +0000",
+      "golden_carrot": "2025-04-04 03:47:43 +0000",
       "cooked_salmon": "2025-04-03 20:49:00 +0000",
       "carrot": "2025-04-04 01:10:07 +0000"
     },
@@ -7650,6 +7651,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-04 03:47:22 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/unique_armors/spider_armor_chestplate": {
     "criteria": {
       "has_thief_armor_chestplate": "2025-04-04 02:10:43 +0000"
@@ -7789,6 +7796,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-04-04 03:44:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-04-04 03:30:47 +0000"
@@ -7798,6 +7811,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-04-04 01:45:12 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
+    "criteria": {
+      "obtain_chaotic_hexahedron": "2025-04-04 03:55:57 +0000"
     },
     "done": true
   },
@@ -7858,6 +7877,12 @@
   "tconstruct:recipes/misc/common/slime/sky/slimeblock": {
     "criteria": {
       "has_item": "2025-04-04 01:55:35 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/snow_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-04-04 04:03:10 +0000"
     },
     "done": true
   },
@@ -7981,6 +8006,12 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/highland_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-04-04 04:03:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-04 02:56:32 +0000"
@@ -8050,6 +8081,12 @@
   "mcda:recipes/base_armors/goat_gear_chestplate": {
     "criteria": {
       "has_leather_chestplate": "2025-04-04 01:35:49 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/reinforced_mail_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-04-04 04:03:10 +0000"
     },
     "done": true
   },
@@ -8143,9 +8180,21 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
+    "criteria": {
+      "has_chaotic_hexahedron": "2025-04-04 03:55:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-04-04 03:30:34 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-04-04 04:03:10 +0000"
     },
     "done": true
   },
@@ -8206,6 +8255,18 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-04-04 03:06:52 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/soul_silk": {
+    "criteria": {
+      "has_soul_cloth": "2025-04-04 03:47:57 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2025-04-04 03:44:38 +0000"
     },
     "done": true
   },
