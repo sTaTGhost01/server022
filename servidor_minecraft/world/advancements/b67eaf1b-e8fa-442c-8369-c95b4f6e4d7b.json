@@ -4831,6 +4831,7 @@
       "minecraft:spider": "2025-04-03 21:00:10 +0000",
       "minecraft:creeper": "2025-04-03 21:00:32 +0000",
       "minecraft:witch": "2025-04-04 00:25:24 +0000",
+      "minecraft:cave_spider": "2025-04-04 04:03:51 +0000",
       "minecraft:vex": "2025-04-04 02:18:37 +0000",
       "minecraft:zombie": "2025-04-03 04:02:07 +0000",
       "minecraft:drowned": "2025-04-03 04:50:23 +0000"
@@ -7856,6 +7857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-04-04 04:18:55 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/diamond_hammer": {
     "criteria": {
       "has_material": "2025-04-04 02:53:40 +0000"
@@ -8327,6 +8334,12 @@
   "mcda:recipes/base_armors/scale_mail_chestplate": {
     "criteria": {
       "has_leather_chestplate": "2025-04-04 01:35:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-04-04 04:21:11 +0000"
     },
     "done": true
   },

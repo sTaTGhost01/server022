@@ -3857,6 +3857,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-04 00:07:30 +0000",
+      "apple": "2025-04-04 04:09:00 +0000",
       "bread": "2025-04-04 00:35:17 +0000",
       "golden_apple": "2025-04-04 03:52:05 +0000",
       "rotten_flesh": "2025-04-04 00:46:18 +0000",
@@ -5829,6 +5830,18 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/gadgets/shuriken/flint_shuriken": {
+    "criteria": {
+      "has_item": "2025-04-04 04:16:01 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:inverted_forest": "2025-04-04 04:16:35 +0000"
+    },
+    "done": false
+  },
   "betterend:recipes/building_blocks/umbrella_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-04-04 02:33:36 +0000"
@@ -5871,6 +5884,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/hay_smithing": {
+    "criteria": {
+      "has_hay": "2025-04-04 04:04:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-04-04 02:41:13 +0000"
@@ -5898,6 +5917,12 @@
   "betterend:recipes/building_blocks/tenanea_bookshelf": {
     "criteria": {
       "has_book": "2025-04-04 02:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-04 04:16:29 +0000"
     },
     "done": true
   },
@@ -6009,6 +6034,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/snow_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-04-04 04:17:51 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/silver_lattice": {
     "criteria": {
       "has_silver_ingot": "2025-04-04 03:04:59 +0000"
@@ -6111,6 +6142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-04 04:16:01 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/charcoal_block": {
     "criteria": {
       "has_charcoal": "2025-04-04 01:57:58 +0000"
@@ -6120,6 +6157,12 @@
   "croptopia:recipes/food/cooked_calamari_from_glowing_calamari": {
     "criteria": {
       "has_glowing_calamari": "2025-04-04 01:52:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-04-04 04:16:29 +0000"
     },
     "done": true
   },
@@ -6135,9 +6178,21 @@
     },
     "done": true
   },
+  "mcda:recipes/unique_armors/highland_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-04-04 04:17:51 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/swift_sneak_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-04 02:33:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-04-04 04:19:52 +0000"
     },
     "done": true
   },
@@ -6202,6 +6257,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/reinforced_mail_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-04-04 04:17:51 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/pythadendron_bookshelf": {
     "criteria": {
       "has_book": "2025-04-04 02:33:36 +0000"
@@ -6211,6 +6272,18 @@
   "betternether:recipes/decorations/wart_hanging_sign": {
     "criteria": {
       "has_chain": "2025-04-04 02:43:32 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:inverted_forest": "2025-04-04 04:16:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-04 04:16:29 +0000"
     },
     "done": true
   },
@@ -6283,6 +6356,12 @@
   "betterend:recipes/building_blocks/lucernia_bookshelf": {
     "criteria": {
       "has_book": "2025-04-04 02:33:36 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/mercenary_armor_helmet": {
+    "criteria": {
+      "has_iron_helmet": "2025-04-04 04:17:51 +0000"
     },
     "done": true
   },
@@ -6460,6 +6539,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-04-04 04:19:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-04 04:16:29 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/thorns_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-04 02:33:36 +0000"
@@ -6523,6 +6614,12 @@
   "betterend:recipes/misc/smite_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-04-04 02:33:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-04 04:16:35 +0000"
     },
     "done": true
   },
